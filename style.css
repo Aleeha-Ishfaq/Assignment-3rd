@@ -63,7 +63,7 @@ h2{
     /* ****mobiles****** */
     @media(max-width:767px){
     .box{
-        height:750px;
+        height:850px;
         width:100%;
     }
     }
@@ -87,4 +87,5 @@ h2{
         }
      }
            
+
    
